@@ -1,1 +1,20 @@
+/* Background of viz area */
+.bk-pinboard-data-viz {
+    
+}
 
+/* Viz Header Text */
+.bk-title-description .bk-title-section .bk-title {
+    font-family: serif;
+}
+
+/* Button backround and text */
+.rd-button-background-light.rd-button-secondary.rd-button-size-m, .rd-button-background-light.rd-button-secondary.rd-button-size-s, .rd-button-background-light.rd-button-secondary.rd-button-size-xs:not(.rd-button-with-text) {
+    
+}
+
+/* Radius of the buttons */
+.rd-button-size-m.rd-button-with-icon.rd-button-with-text{
+    border-radius: .05rem;
+    border: 2px solid black;
+}
