@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width:0;height:0;visibility:hidden;">
+   <defs/>
+   <symbol id="rd-icon-spotter" viewBox="0 0 48 48" fill="green">
+      <path xmlns="http://www.w3.org/2000/svg" d="m -276.06152,113.02835 32.54377,84.76928 c 0.24735,0.64486 0.86571,1.06889 1.55475,1.06889 h 26.40427 c -0.68904,0 -1.3074,-0.42403 -1.55475,-1.06889 l -32.54377,-84.76928 z" id="path27" style="stroke-width:0.88338137;fill-opacity:1;stroke:none"/>
+      <path xmlns="http://www.w3.org/2000/svg" d="m -181.46021,113.02835 -32.54377,84.76928 c -0.24734,0.64486 -0.86571,1.06889 -1.55475,1.06889 H -241.963 c 0.68904,0 1.30741,-0.42403 1.55475,-1.06889 l 32.54377,-84.76928 z" id="path29" style="stroke-width:0.88338137;fill:#f50a23;fill-opacity:1;stroke:none"/>
+   </symbol>
+</svg>
